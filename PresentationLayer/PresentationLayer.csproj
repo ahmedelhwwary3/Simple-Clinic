@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{68FFD239-2E89-4129-A407-B40C4BE8E38B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PresentationLayer</RootNamespace>
+    <AssemblyName>PresentationLayer</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Appointments\frmAddEditAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Appointments\frmAddEditAppointment.Designer.cs">
+      <DependentUpon>frmAddEditAppointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Appointments\frmShowAppointmentsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Appointments\frmShowAppointmentsList.Designer.cs">
+      <DependentUpon>frmShowAppointmentsList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global\clsUtil.cs" />
+    <Compile Include="Global\clsValidation.cs" />
+    <Compile Include="Login\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medical Records\frmShowMedicalRecordsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medical Records\frmShowMedicalRecordsList.Designer.cs">
+      <DependentUpon>frmShowMedicalRecordsList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Prescriptions\frmShowPrescritionsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prescriptions\frmShowPrescritionsList.Designer.cs">
+      <DependentUpon>frmShowPrescritionsList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medical Records\frmAddEditMedicalRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medical Records\frmAddEditMedicalRecord.Designer.cs">
+      <DependentUpon>frmAddEditMedicalRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Prescriptions\frmAddEditPrescription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prescriptions\frmAddEditPrescription.Designer.cs">
+      <DependentUpon>frmAddEditPrescription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payments\frmAddEditPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payments\frmAddEditPayment.Designer.cs">
+      <DependentUpon>frmAddEditPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payments\frmShowPaymentsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payments\frmShowPaymentsList.Designer.cs">
+      <DependentUpon>frmShowPaymentsList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="People\All\frmAddEditPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="People\All\frmAddEditPerson.Designer.cs">
+      <DependentUpon>frmAddEditPerson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="People\All\frmShowPeopleList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="People\All\frmShowPeopleList.Designer.cs">
+      <DependentUpon>frmShowPeopleList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="People\All\User Control\ctrlPersonCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="People\All\User Control\ctrlPersonCard.Designer.cs">
+      <DependentUpon>ctrlPersonCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="People\All\User Control\frmShowPersonCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="People\All\User Control\frmShowPersonCard.Designer.cs">
+      <DependentUpon>frmShowPersonCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="People\Doctors\User Control\ctrlDoctorCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="People\Doctors\User Control\ctrlDoctorCard.Designer.cs">
+      <DependentUpon>ctrlDoctorCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="People\Doctors\frmAddEditDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="People\Doctors\frmAddEditDoctor.Designer.cs">
+      <DependentUpon>frmAddEditDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="People\Doctors\frmShowDoctorsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="People\Doctors\frmShowDoctorsList.Designer.cs">
+      <DependentUpon>frmShowDoctorsList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="People\Doctors\User Control\frmShowDoctorCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="People\Doctors\User Control\frmShowDoctorCard.Designer.cs">
+      <DependentUpon>frmShowDoctorCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="People\Patients\frmAddEditPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="People\Patients\frmAddEditPatient.Designer.cs">
+      <DependentUpon>frmAddEditPatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="People\Patients\frmShowPatientsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="People\Patients\frmShowPatientsList.Designer.cs">
+      <DependentUpon>frmShowPatientsList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="People\Patients\User Control\ctrlPatientCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="People\Patients\User Control\ctrlPatientCard.Designer.cs">
+      <DependentUpon>ctrlPatientCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="People\Patients\User Control\frmShowPatientCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="People\Patients\User Control\frmShowPatientCard.Designer.cs">
+      <DependentUpon>frmShowPatientCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Appointments\frmAddEditAppointment.resx">
+      <DependentUpon>frmAddEditAppointment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Appointments\frmShowAppointmentsList.resx">
+      <DependentUpon>frmShowAppointmentsList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medical Records\frmShowMedicalRecordsList.resx">
+      <DependentUpon>frmShowMedicalRecordsList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prescriptions\frmShowPrescritionsList.resx">
+      <DependentUpon>frmShowPrescritionsList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medical Records\frmAddEditMedicalRecord.resx">
+      <DependentUpon>frmAddEditMedicalRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prescriptions\frmAddEditPrescription.resx">
+      <DependentUpon>frmAddEditPrescription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payments\frmAddEditPayment.resx">
+      <DependentUpon>frmAddEditPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payments\frmShowPaymentsList.resx">
+      <DependentUpon>frmShowPaymentsList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="People\All\frmAddEditPerson.resx">
+      <DependentUpon>frmAddEditPerson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="People\All\frmShowPeopleList.resx">
+      <DependentUpon>frmShowPeopleList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="People\All\User Control\ctrlPersonCard.resx">
+      <DependentUpon>ctrlPersonCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="People\All\User Control\frmShowPersonCard.resx">
+      <DependentUpon>frmShowPersonCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="People\Doctors\User Control\ctrlDoctorCard.resx">
+      <DependentUpon>ctrlDoctorCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="People\Doctors\frmAddEditDoctor.resx">
+      <DependentUpon>frmAddEditDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="People\Doctors\frmShowDoctorsList.resx">
+      <DependentUpon>frmShowDoctorsList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="People\Doctors\User Control\frmShowDoctorCard.resx">
+      <DependentUpon>frmShowDoctorCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="People\Patients\frmAddEditPatient.resx">
+      <DependentUpon>frmAddEditPatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="People\Patients\frmShowPatientsList.resx">
+      <DependentUpon>frmShowPatientsList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="People\Patients\User Control\ctrlPatientCard.resx">
+      <DependentUpon>ctrlPatientCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="People\Patients\User Control\frmShowPatientCard.resx">
+      <DependentUpon>frmShowPatientCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLayer\BusinessLayer.csproj">
+      <Project>{3f29609b-04a4-4ea8-9de0-07408a661c24}</Project>
+      <Name>BusinessLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\P6 RS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Doctor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\patint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Appointment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\People.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paypal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pay small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AllPay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medicalrecord.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clinic3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\patient.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\people3d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\svg1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\svg3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save big.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete big.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close big.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\date2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medicine.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\presc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clinicBig.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Show.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\th.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closeBig.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

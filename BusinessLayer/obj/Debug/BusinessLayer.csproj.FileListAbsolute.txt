@@ -1,0 +1,18 @@
+F:\Clinic Proj\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+F:\Clinic Proj\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+F:\Clinic Proj\PresentationLayer\BusinessLayer\bin\Debug\BusinessLayer.dll
+F:\Clinic Proj\PresentationLayer\BusinessLayer\bin\Debug\BusinessLayer.pdb
+F:\Clinic Proj\PresentationLayer\BusinessLayer\bin\Debug\DataAccessLayer.dll
+F:\Clinic Proj\PresentationLayer\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+F:\Clinic Proj\PresentationLayer\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+F:\Clinic Proj\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.dll
+F:\Clinic Proj\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.pdb
+F:\Clinic Proj\Clinic Project\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+F:\Clinic Proj\Clinic Project\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+F:\Clinic Proj\Clinic Project\BusinessLayer\obj\Debug\BusinessLayer.dll
+F:\Clinic Proj\Clinic Project\BusinessLayer\obj\Debug\BusinessLayer.pdb
+F:\Clinic Proj\Clinic Project\BusinessLayer\bin\Debug\BusinessLayer.dll
+F:\Clinic Proj\Clinic Project\BusinessLayer\bin\Debug\BusinessLayer.pdb
+F:\Clinic Proj\Clinic Project\BusinessLayer\bin\Debug\DataAccessLayer.dll
+F:\Clinic Proj\Clinic Project\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+F:\Clinic Proj\Clinic Project\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date

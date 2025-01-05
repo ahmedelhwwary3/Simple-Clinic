@@ -1,0 +1,87 @@
+F:\Clinic Proj\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+F:\Clinic Proj\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.frmMain.resources
+F:\Clinic Proj\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+F:\Clinic Proj\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+F:\Clinic Proj\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+F:\Clinic Proj\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+F:\Clinic Proj\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe
+F:\Clinic Proj\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.pdb
+F:\Clinic Proj\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.dll
+F:\Clinic Proj\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.pdb
+F:\Clinic Proj\PresentationLayer\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+F:\Clinic Proj\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.exe
+F:\Clinic Proj\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.pdb
+F:\Clinic Proj\PresentationLayer\PresentationLayer\bin\Debug\DataAccessLayer.dll
+F:\Clinic Proj\PresentationLayer\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+F:\Clinic Proj\Clinic Project\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+F:\Clinic Proj\Clinic Project\PresentationLayer\bin\Debug\PresentationLayer.exe
+F:\Clinic Proj\Clinic Project\PresentationLayer\bin\Debug\PresentationLayer.pdb
+F:\Clinic Proj\Clinic Project\PresentationLayer\bin\Debug\BusinessLayer.dll
+F:\Clinic Proj\Clinic Project\PresentationLayer\bin\Debug\DataAccessLayer.dll
+F:\Clinic Proj\Clinic Project\PresentationLayer\bin\Debug\BusinessLayer.pdb
+F:\Clinic Proj\Clinic Project\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.frmMain.resources
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.exe
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.pdb
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.All.frmShowPeopleList.resources
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.All.frmAddEditPerson.resources
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.All.User_Control.ctrlPersonCard.resources
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.All.User_Control.frmShowPersonCard.resources
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.Doctors.ctrlDoctorCard.resources
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.Doctors.frmAddEditDoctor.resources
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.Doctors.frmShowDoctorsList.resources
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.Doctors.User_Control.frmShowDoctorCard.resources
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.Appointments.frmAddEditAppointment.resources
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.Appointments.frmShowAppointmentsList.resources
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.Patients.frmShowPatientsList.resources
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.Patients.frmAddEditPatient.resources
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.Patients.User_Control.ctrlPatientCard.resources
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.Patients.User_Control.frmShowPatientCard.resources
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.Payments.frmAddEditPayment.resources
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.Payments.frmShowPaymentsList.resources
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.Medical_Records_And_Prescriptions.Medical_Records.frmAddEditMedicalRecord.resources
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.Medical_Records_And_Prescriptions.Prescriptions.frmAddEditPrescription.resources
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.Medical_Records.frmShowPrescritionsList.resources
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.Medical_Records.frmShowMedicalRecordsList.resources
+F:\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.Login.frmLogin.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\bin\Debug\PresentationLayer.exe
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\bin\Debug\BusinessLayer.dll
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\bin\Debug\DataAccessLayer.dll
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\bin\Debug\BusinessLayer.pdb
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.Appointments.frmAddEditAppointment.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.Appointments.frmShowAppointmentsList.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.frmMain.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.Login.frmLogin.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.Medical_Records.frmShowMedicalRecordsList.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.Medical_Records.frmShowPrescritionsList.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.Medical_Records_And_Prescriptions.Medical_Records.frmAddEditMedicalRecord.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.Medical_Records_And_Prescriptions.Prescriptions.frmAddEditPrescription.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.Payments.frmAddEditPayment.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.Payments.frmShowPaymentsList.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.All.frmAddEditPerson.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.All.frmShowPeopleList.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.All.User_Control.ctrlPersonCard.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.All.User_Control.frmShowPersonCard.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.Doctors.ctrlDoctorCard.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.Doctors.frmAddEditDoctor.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.Doctors.frmShowDoctorsList.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.Doctors.User_Control.frmShowDoctorCard.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.Patients.frmAddEditPatient.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.Patients.frmShowPatientsList.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.Patients.User_Control.ctrlPatientCard.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.People.Patients.User_Control.frmShowPatientCard.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.exe
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\obj\Debug\PresentationLayer.pdb
+F:\Programming\My Projects\Clinic Proj\Clinic Project\PresentationLayer\bin\Debug\PresentationLayer.pdb

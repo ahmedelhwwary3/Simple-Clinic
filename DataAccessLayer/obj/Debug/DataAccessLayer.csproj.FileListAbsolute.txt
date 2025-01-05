@@ -1,0 +1,12 @@
+F:\Clinic Proj\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+F:\Clinic Proj\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\Clinic Proj\PresentationLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\Clinic Proj\PresentationLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\Clinic Proj\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\Clinic Proj\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+F:\Clinic Proj\Clinic Project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+F:\Clinic Proj\Clinic Project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\Clinic Proj\Clinic Project\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\Clinic Proj\Clinic Project\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+F:\Clinic Proj\Clinic Project\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\Clinic Proj\Clinic Project\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
