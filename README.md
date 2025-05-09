@@ -26,3 +26,5 @@ A feature-rich *clinic management system* developed using *C#*, designed to stre
 - Focused on clean code practices to make the system maintainable and extensible.  
 
 This project demonstrates strong problem-solving skills, attention to detail, and the ability to build complex systems with robust functionalities
+
+Note: I Added the DataBase File with the Project (P1Clinic.bak)
